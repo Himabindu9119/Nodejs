@@ -1,0 +1,19 @@
+{
+  "name": "projectnodejs",
+  "version": "1.0.0",
+  "description": "basic programming",
+  "main": "buffer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Himabindu9119/Nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Himabindu9119/Nodejs/issues"
+  },
+  "homepage": "https://github.com/Himabindu9119/Nodejs#readme"
+}
